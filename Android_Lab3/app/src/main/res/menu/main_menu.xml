@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/white_bg"
+        android:title="@string/white_bg"
+        />
+    <item
+        android:id="@+id/red_bg"
+        android:title="@string/red_bg"
+        />
+    <item
+        android:id="@+id/blue_bg"
+        android:title="@string/blue_bg"
+        />
+</menu>
